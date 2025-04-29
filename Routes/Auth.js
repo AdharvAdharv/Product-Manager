@@ -4,9 +4,7 @@ import jwt from "jsonwebtoken";
 import { sample } from "../Models/model.js";
 import { body, validationResult } from "express-validator";
 
-import { Product } from "../Models/Product.js";
-import upload from "../Middleware/multerConfig.js";
-import { jwtAuthMiddleware } from "../Middleware/AuthMiddleware.js";
+
 
 
 const userauth = Router();
