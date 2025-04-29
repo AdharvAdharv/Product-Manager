@@ -58,3 +58,14 @@ A RESTful Product Management API with User/Admin authentication, role-based acce
 npm install
 npm run dev
 
+# Notes
+ADMIN01 is auto-generated on server start:
+
+Email: admin@system.com
+
+Password: admin123
+
+Product images stored at /uploads/public/product/
+
+Wishlist max limit: 15 products per user
+
