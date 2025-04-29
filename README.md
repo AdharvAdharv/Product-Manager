@@ -69,3 +69,6 @@ Product images stored at /uploads/public/product/
 
 Wishlist max limit: 15 products per user
 
+
+Postman URL:https://documenter.getpostman.com/view/41318798/2sB2j3ArKx
+
